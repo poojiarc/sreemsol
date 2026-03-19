@@ -1,6 +1,6 @@
 import { Database, Users, ClipboardList, Wrench, Cloud, Layers } from "lucide-react";
 import serviceErp from "@/assets/service-erp.jpg";
-import serviceStaffing from "@/assets/service-staffing.jpg";
+import serviceStaffing from "@/assets/IT-Staffing.png";
 import serviceProject from "@/assets/service-project.jpg";
 import serviceMaintenance from "@/assets/service-maintenance.jpg";
 import serviceSaas from "@/assets/service-saas.jpg";
